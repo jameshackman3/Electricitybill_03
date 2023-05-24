@@ -1,2 +1,5 @@
 # Electricitybill_03
-java
+import util.*;
+class Student:
+new Scanner =in.nextScanner(input)
+
